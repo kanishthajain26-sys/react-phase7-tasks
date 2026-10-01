@@ -44,7 +44,7 @@ body {
   right: -120px;
 }
 
-/* Main Container */
+
 
 .container {
   position: relative;
@@ -52,7 +52,6 @@ body {
   margin: auto;
 }
 
-/* Header */
 
 .header {
   text-align: center;
